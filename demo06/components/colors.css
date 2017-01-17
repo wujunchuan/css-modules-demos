@@ -1,3 +1,4 @@
 @value blue: #0c77f8;
 @value red: #ff0000;
 @value green: #aaf200;
+@value dabian: #ff00ff;/*Notice:这里不能使用yellow 等来代替变量*/
