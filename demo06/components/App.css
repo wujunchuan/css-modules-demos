@@ -1,7 +1,10 @@
 @value colors: "./colors.css";
-@value blue, red, green from colors;
+@value blue, red, green,dabian from colors;
 
 .title {
   color: red;
   background-color: blue;
+}
+.dabian {
+    color: dabian;
 }
